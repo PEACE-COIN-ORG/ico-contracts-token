@@ -26,7 +26,7 @@ $ truffle develop
 truffle(develop)> migrate --compile-all --network=develop --reset
 ```
 
-## Development Mode For ganache
+## Development Mode For Ganache
 
 ```
 $ truffle migrate --compile-all --network=ganache --reset
@@ -37,7 +37,6 @@ $ truffle console --network ganache
 
 ```
 $ truffle migrate --compile-all --network=live --reset
-$ truffle console --network ganache
 ```
 
 [peace-coin.org]: https://www.peace-coin.org
