@@ -1,4 +1,4 @@
-# Peace Coin Crowdsale Token Contract
+# PEACE-COIN.ORG Crowdsale Token Contract
 
 Please visit our web site at the [PEACE-COIN.ORG][peace-coin.org].
 
